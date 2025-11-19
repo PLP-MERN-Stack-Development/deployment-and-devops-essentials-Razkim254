@@ -12,7 +12,7 @@ import { fileURLToPath } from 'url';
 dotenv.config();
 
 // ✅ MongoDB connection
-const connectDB = require('./config/db');
+import connectDB from './config/db.js';
 connectDB();
 
 
