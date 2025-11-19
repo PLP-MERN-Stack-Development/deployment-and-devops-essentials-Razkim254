@@ -11,6 +11,11 @@ import { fileURLToPath } from 'url';
 // Load environment variables
 dotenv.config();
 
+// ✅ MongoDB connection
+const connectDB = require('./config/db');
+connectDB();
+
+
 // Resolve __dirname in ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
