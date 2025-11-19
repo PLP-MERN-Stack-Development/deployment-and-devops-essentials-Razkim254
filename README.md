@@ -75,3 +75,9 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
 - [Netlify Documentation](https://docs.netlify.com/) 
+
+- URL of the deployed backend API 
+https://deployment-and-devops-essentials-1swh.onrender.com
+
+  - URL of the deployed frontend application
+  https://deployment-and-devops-essentials-hg5j.onrender.com
